@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/TVPage_Connect",
+    "name": "OpenMageModuleFostering\/TVPage_Connect",
     "type": "magento-module",
     "license": "MITL",
     "homepage": "",
     "description": "Increase conversion to sales by connecting your Magento Products directly with your TVPage Video Collection.",
     "authors": [
-    {
-        "name": "Admin",
-        "email": "support@tvpage.com"
-    }
-],
+        {
+            "name": "Admin",
+            "email": "support@tvpage.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
